@@ -3,6 +3,6 @@
   }
 
 header {
-    width:100%;
-    background-image:"header-background.jpg";
+    width: 100%;
+    background-image: url("header-background.jpg");
 }
